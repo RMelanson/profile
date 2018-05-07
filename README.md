@@ -1,10 +1,17 @@
 # Package Linux-scripts-bootstraps
 
+
+- [Description](#description)
+- [How To Use](#how-to-use)
+- [Additional Resources](#additional-resources)
+- [License](#license)
+- [Author Info](#author-info)
+
 ![Project Image](https://github.com/RMelanson/profile/blob/master/RobinPhoto.jpg)
 
 Date: May 06 2018
 
-# Author: Robin Melanson Initial Release
+Author: Robin Melanson Initial Release
 # email: robin.e.melanson@gmail.com
 # Version: 1.0.0
 #
