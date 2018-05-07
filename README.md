@@ -7,7 +7,7 @@
 - [License](#license)
 - [Author Info](#author-info)
 
-![Project Image](https://github.com/RMelanson/profile/blob/master/RobinPhoto.jpg)
+
 
 Date: May 06 2018
 
@@ -17,7 +17,7 @@ Author: Robin Melanson Initial Release
 #
 # Git Repository: https://github.com/RMelanson/linux-scripts-bootstraps.git
 #
-# CopyRight ©:  This program is for free re-distribution provided this
+### CopyRight ©:  This program is for free re-distribution provided this
 #               copyright header is left in place.  There is no warranty or
 #               guarenty of any kind in any way and not assured to be as
 #               required.  The user is free to modify the code as required.
@@ -42,13 +42,19 @@ Author: Robin Melanson Initial Release
 #               2) or as user with sudo access:
 #                  sudo ./masterBootstrap.sh
 #
-# Contents:    README.md ~ Readme file
-#              devToolsBootstrap.sh
-#              masterBootstrap.sh
-#              README.md
-#              stockWidgetsBootStrap.sh
-#              jbossBootstrap.sh
-#              mySqlInstall.sh
-#              s3fsBootstrap.sh
-#              webBootstrap.sh
+- Contents:    README.md ~ Readme file
+-              devToolsBootstrap.sh
+-              masterBootstrap.sh
+-              README.md
+-              stockWidgetsBootStrap.sh
+-              jbossBootstrap.sh
+-              mySqlInstall.sh
+-              s3fsBootstrap.sh
+-              webBootstrap.sh
 
+## Author Info
+
+![Project Image](https://github.com/RMelanson/profile/blob/master/RobinPhoto.jpg)- Name: Robin Melanson Initial Release
+
+
+[Back To The Top](#read-me-template))
