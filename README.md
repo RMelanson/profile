@@ -38,13 +38,15 @@
 ### Contents 
 
 - README.md ~ Readme file
+- masterBootstrap.sh  ~ Installs this package
 - devToolsBootstrap.sh ~ Installs standard Linux development components.  Read the script and comment out those components you may not want installed.
-- masterBootstrap.sh  -
-- stockWidgetsBootStrap.sh
-- jbossBootstrap.sh
-- mySqlInstall.sh
-- s3fsBootstrap.sh
-- webBootstrap.sh
+- stockWidgetsBootStrap.sh ~ Installs Java Rest API's Propritary software for Stock analysis to JBOSS. (WIP**)
+- jbossBootstrap.sh ~ Installs JBOSS wildfly community edition with complete access as admin.
+- mySqlInstall.sh ~ Installs Mysql
+- s3fsBootstrap.sh ~ Installs Amazon Web Services S3 File system to mount S3 as network drives on the linux file system,
+- webBootstrap.sh ~ Installs a basic webserver.
+    - *Notes: Not all software is guaranteed to be complete.
+   - ** (WIP**): indicates work is on going and package may not be stable or even usable.
 #
 ### Running the Package
 It is recommended to read the contents of the scripts to be assured of the installation process and what will be installed.  There may not be an associated uninstalling script, so uninstalling is the owners responsibility.
@@ -58,5 +60,6 @@ It is recommended to read the contents of the scripts to be assured of the insta
 
 ![About the Author](https://github.com/RMelanson/profile/blob/master/RobinPhoto.jpg)
 - Name: Robin Melanson
+- email: robin.e.melanson@gmail.com
 
-[Back To The Top](#read-me-template))
+[Back To The Top](#Package))
