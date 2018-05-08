@@ -1,14 +1,19 @@
 # Package Linux-scripts-bootstraps
+Linux-scripts-bootstraps
+### Table of Contents
+You're sections headers will be used to reference location of destination.
 
 - [CopyRight ©](#CopyRight)
 - [Repository](#Repository)
 - [About](#About)
 - [Installation](#Installation)
 - [Contents](#Contents)
-- [Running the Package](#Running)
+- [Running the Package](#Running-the-Package)
+- [Video Tutorial](#Video-Tutoria)
 - [About the Author](#About-the-Author)
 #
-### CopyRight ©  **Install at your own Risk
+### CopyRight ©  
+**Install at your own Risk
 - This program is free for re-distribution provided this copyright header is left in place.  
 - There is no warranty or guaranty of any kind in any way and is not assured to be as required and may not work exactly as designed for all os systems operating various potential conflicting software.  
 - It is recommended to read the contents of the scripts to be assured of the installation process and what will be installed. 
@@ -22,7 +27,7 @@
 ### About
 - Version: 1.0.0
 - Release Date: May 06 2018
-- Purpose: Bootstraps is a simplified installation package for many Linux packages.
+- Purpose: Bootstraps is a simplified installation package for many Linux packages/3rd Party Apps.
 - Description: Bootstraps is a master bootstrap utility for downloading and installing various software bootstraps for software initialization on Linux. Bootstraps may be installed as a bootstrap or after the Linux system has been launched. 
 - The masterBootstrap.sh is used to download all the bootstraps from the git repository for future potential installation.
 #
@@ -56,10 +61,12 @@ It is recommended to read the contents of the scripts to be assured of the insta
        - execute as root ./??...??Bootstrap.sh
        - or as user with sudo access sudo ./??...??Bootstrap.sh
 #
-## Author Info
-
-![About the Author](https://github.com/RMelanson/profile/blob/master/RobinPhoto.jpg)
+Video Tutorial
+- Vidio Hyper Link comming soon...
+#
+## About the Author
+![Author Image](https://github.com/RMelanson/profile/blob/master/RobinPhoto.jpg)
 - Name: Robin Melanson
 - email: robin.e.melanson@gmail.com
 
-[Back To The Top](#Package))
+[Back To The Top](#Package-Linux-scripts-bootstraps)
