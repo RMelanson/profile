@@ -1,5 +1,6 @@
 # Package Linux-scripts-bootstraps
-Linux-scripts-bootstraps
+![Bootstrap Image](https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/boot1.jpg)
+
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
 
@@ -61,8 +62,8 @@ It is recommended to read the contents of the scripts to be assured of the insta
        - execute as root ./??...??Bootstrap.sh
        - or as user with sudo access sudo ./??...??Bootstrap.sh
 #
-Video Tutorial
-- Vidio Hyper Link comming soon...
+## Video Tutorial
+- Video Tutorial Hyper Link comming soon...
 #
 ## About the Author
 ![Author Image](https://github.com/RMelanson/profile/blob/master/RobinPhoto.jpg)
