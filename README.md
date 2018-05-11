@@ -1,4 +1,4 @@
-# Package Linux-scripts-bootstraps
+# Package RMelanson 
 ![Bootstrap Image](https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/boot1.jpg)
 
 ### Table of Contents
