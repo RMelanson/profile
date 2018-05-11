@@ -1,4 +1,4 @@
-# Package RMelanson 
+# Package Linux Script Template 
 ![Bootstrap Image](https://github.com/RMelanson/linux-scripts-bootstraps/blob/master/images/boot1.jpg)
 
 ### Table of Contents
@@ -13,7 +13,7 @@ You're sections headers will be used to reference location of destination.
 - [Video Tutorial](#Video-Tutoria)
 - [About the Author](#About-the-Author)
 #
-### Package Package Linux-scripts-bootstraps CopyRight ©  
+### Package Package XXXXXXXXX CopyRight ©  
 - This program is free for re-distribution provided this copyright/license header is left in place.  
 - There is no warranty or guaranty of any kind in any way and is not assured to be as required and may not work exactly as designed for all os systems operating various potentially conflicting software.  
 - It is recommended to read the contents of the scripts to be assured of the installation process and what will be installed. 
